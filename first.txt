@@ -7,4 +7,6 @@ Gitの練習用テキスト
 ・git commit
 ・git rm
 ・git status
+・git diff
+
 
