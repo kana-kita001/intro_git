@@ -6,4 +6,5 @@ Gitの練習用テキスト
 ・git add
 ・git commit
 ・git rm
+・git status
 
